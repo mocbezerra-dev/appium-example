@@ -23,7 +23,7 @@ public class AppiumDriverConfig {
 
     private AppiumDriverConfig() {
 
-        File apkFile = new File("C:\\Users\\mocbe\\Desktop\\Projects\\AppiumExample\\src\\main\\resources\\alura_esporte.apk");
+        File apkFile = new File("C:\\Users\\mocbe\\Desktop\\Projects\\appium-example\\src\\main\\resources\\alura_esporte.apk");
 
         URL urlAppium = null;
 
