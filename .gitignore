@@ -24,3 +24,6 @@ hs_err_pid*
 
 # IntelliJ Project
 .idea
+
+# target
+target/
